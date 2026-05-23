@@ -183,26 +183,6 @@ Drine/
 
 No build tools are required — this is a static HTML/CSS/JS site.
 
-### Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd Drine
-   ```
-
-2. Open `index.html` in your browser, or use a local server:
-
-   ```bash
-   # Using Python
-   python3 -m http.server 8000
-
-   # Using Node.js
-   npx serve .
-   ```
-
-3. Visit `http://localhost:8000` in your browser.
 
 ### Deploy
 
