@@ -178,7 +178,6 @@ Drine/
 
 ---
 
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -227,15 +226,6 @@ The project is deployed on **Netlify**. To deploy your own version:
 | `4-loading-overlay.js`       | Controls loading screen lifecycle: progress bar animation → AOS init → overlay fade-out                                                                                         |
 
 ---
-
-## 📧 Contact
-
-- **Email:** [info@qdrivenapp.com](mailto:info@qdrivenapp.com)
-- **Phone:** [+974 3167 7773](tel:+97431677773)
-- **Location:** Doha, Qatar
-
----
-
 <p align="center">
   Made with ❤️ for Qatar
 </p>
